@@ -8,6 +8,8 @@ Desde muy pequeña me han gustado las tecnologías y trastear con ordenadores, p
 
 Ahora quiero rectificar mi camino hacia este mundo, porque cómo dicen, nunca es tarde.
 
+También dispongo de conocimientos en Marketing digital y Redes Sociales, ya que cursé el primer curso del Ciclo Super de Marketing y publicidad.
+
 ## Tecnologías:
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 </br>
