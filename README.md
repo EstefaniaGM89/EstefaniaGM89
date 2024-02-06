@@ -19,7 +19,7 @@ Y algunas más...
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/estefaniagm89/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Estefanía-García-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/estefaniagm89/)
 
 #### ¡Gracias!
 
@@ -28,5 +28,5 @@ Y algunas más...
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:estefaniagm89@hotmail.com)
+[![Email](https://img.shields.io/badge/estefaniagm89@hotmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:estefaniagm89@hotmail.com)
 </br>
