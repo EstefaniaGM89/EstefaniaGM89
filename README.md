@@ -14,8 +14,9 @@ Ahora quiero rectificar mi camino hacia este mundo, porque cómo dicen, nunca es
 </br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
 </br>
-Y algunas más...
+Y algunos más que añadiré a medida que avance en los estudios!
 
 
 #### ¡Gracias!
