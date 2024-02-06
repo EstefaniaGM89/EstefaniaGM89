@@ -17,16 +17,5 @@ Ahora quiero rectificar mi camino hacia este mundo, porque cómo dicen, nunca es
 </br>
 Y algunas más...
 
-## Encuéntrame en:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Estefania-Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/estefaniagm89/)
 
 #### ¡Gracias!
-
-
-
-
-## Contacto:
-
-[![Email](https://img.shields.io/badge/email-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:estefaniagm89@hotmail.com)
-</br>
