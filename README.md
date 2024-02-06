@@ -5,6 +5,7 @@
 Después de haber tenido experiencias laborales en varios sectores, hace poco he descubierto que mi sitio es entre ordenadores, y por ello decidí adentrarme en el amplio mundo de la programación.
 
 Desde muy pequeña me han gustado las tecnologías y trastear con ordenadores, pues aún recuerdo cómo un Amstrad CPC 464 llamó toda mi atención con tan sólo 3 años.
+
 Ahora quiero rectificar mi camino hacia este mundo, porque cómo dicen, nunca es tarde.
 
 ## Tecnologías:
