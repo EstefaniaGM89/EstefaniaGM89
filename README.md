@@ -21,7 +21,7 @@ También dispongo de conocimientos en Marketing digital y Redes Sociales, ya que
 </br>
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
 </br>
-[HTML](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
+[HTML](https://img.shields.io/badge/HTML-blue?style=flat&logo=HTML&color=rgba)]()
 [CSS](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
 [Javascript](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
 [PHP](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
