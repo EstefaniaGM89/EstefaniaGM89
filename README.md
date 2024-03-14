@@ -1,16 +1,15 @@
-# Hola, mi nombre es Estefanía García 👋
-### Estudiante de Programación: FP Ciclo Superior de Desarrollo de Aplicaciones Web
+# Hello, my name is Estefanía García 👋
+### Web Development Student
 
+After having experiences in various sectors, I recently discovered that my place is among computers, which is why I decided to delve into the vast world of programming.
 
-Después de haber tenido experiencias laborales en varios sectores, hace poco he descubierto que mi sitio es entre ordenadores, y por ello decidí adentrarme en el amplio mundo de la programación.
+Since I was very young, I have been interested in technology and tinkering with computers. I still remember how an Amstrad CPC 464 caught my attention at the age of 3.
 
-Desde muy pequeña me han gustado las tecnologías y trastear con ordenadores, pues aún recuerdo cómo un Amstrad CPC 464 llamó toda mi atención con tan sólo 3 años.
+Now I want to redirect my path towards this world, because as they say, it's never too late.
 
-Ahora quiero rectificar mi camino hacia este mundo, porque cómo dicen, nunca es tarde.
+I also have knowledge in Digital Marketing and Social Media, as I completed the first year of the Higher Education in Marketing and Advertising.
 
-También dispongo de conocimientos en Marketing digital y Redes Sociales, ya que cursé el primer curso del Ciclo Super de Marketing y publicidad.
-
-## Tecnologías:
+## Technologies:
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -21,11 +20,10 @@ También dispongo de conocimientos en Marketing digital y Redes Sociales, ya que
 </br>
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
 </br>
-[HTML](https://img.shields.io/badge/HTML-blue?style=flat&logo=HTML&color=rgba)]()
-[CSS](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
-[Javascript](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
-[PHP](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
-Y algunos más que añadiré a medida que avance en los estudios!
+[![PHP](https://img.shields.io/badge/PHP-FF2100?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-FF215F?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-FFCA28?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 
+And some more that I will add as I progress in my studies!
 
-#### ¡Gracias!
+#### Thanks!
