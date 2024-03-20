@@ -23,6 +23,8 @@ I also have knowledge in Digital Marketing and Social Media, as I completed the 
 [![PHP](https://img.shields.io/badge/PHP-FF2100?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-FF215F?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-FFCA28?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
+[![JavaScript]https://img.shields.io/badge/JavaScript-blue?style=flat&logo=JavaScript&logoColor=rgba&labelColor=rgba)]()
+
 
 And some more that I will add as I progress in my studies!
 
