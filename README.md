@@ -7,7 +7,7 @@ Since I was very young, I have been interested in technology and tinkering with 
 
 Now I want to redirect my path towards this world, because as they say, it's never too late.
 
-I also have knowledge in Digital Marketing and Social Media, as I completed the first year of the Higher Education in Marketing and Advertising.
+I also have knowledge in Digital Marketing and Social Medias, as I completed the first year of Education in Marketing and Advertising professional certificate.
 
 ## Technologies:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
