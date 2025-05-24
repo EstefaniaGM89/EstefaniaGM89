@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EstefaniaGM89/EstefaniaGM89/main/foto_cv.jpg" alt="Estefanía García" width="200" />
+  <img src="https://raw.githubusercontent.com/EstefaniaGM89/EstefaniaGM89/foto_cv.jpg" alt="Estefanía García" width="200" />
 </p>
 
 <h1 align="center">Hello, my name is Estefanía García 👋</h1>
