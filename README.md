@@ -1,6 +1,16 @@
-# Hello, my name is Estefanía García 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EstefaniaGM89/EstefaniaGM89/main/foto_cv.png" alt="Estefanía García" width="200" />
+</p>
 
-### 💻 Junior Developer
+<h1 align="center">Hello, my name is Estefanía García 👋</h1>
+
+<h3 align="center">💻 Junior Developer</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/estefaniagm89/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 After working in several sectors, I discovered that my true passion lies in technology and programming. From the moment I first played with an Amstrad CPC 464 at age 3, I’ve been curious about how things work behind the screen.
 
@@ -42,15 +52,16 @@ Now I’m fully committed to a career in web development. I bring a user-centere
 ---
 
 ### 🚀 Projects
-- [JustType AI Keyboard]: Intelligent iOS keyboard with real-time translation, auto-correct, and ChatGPT Powered.
-- [MediTrack App]: Web app to manage patients and medications, designed for chronic care tracking.
+- **JustType AI Keyboard**: Intelligent iOS keyboard with real-time translation, auto-correct, and ChatGPT Powered.
+- **MediTrack App**: Web app to manage patients and medications, designed for chronic care tracking.
 
 ---
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/estefaniagm89/)
-- 💻 [Portfolio]*(coming soon)*
+- 💻 Portfolio *(coming soon)*
 
 ---
 
 Thanks for visiting my profile! 😊
+
