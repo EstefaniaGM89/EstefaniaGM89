@@ -40,11 +40,6 @@ Now I’m fully committed to a career in web development. I bring a user-centere
 
 ---
 
-### 📈 GitHub Stats
-![Estefanía's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstefaniaGM89&show_icons=true&theme=radical)
-
----
-
 ### 🚀 Projects
 - [JustType AI Keyboard]: Intelligent iOS keyboard with real-time translation, auto-correct, and ChatGPT Powered.
 - [MediTrack App]: Web app to manage patients and medications, designed for chronic care tracking.
