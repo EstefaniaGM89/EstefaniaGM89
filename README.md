@@ -1,26 +1,30 @@
 # Hello, my name is Estefanía García 👋
-### Web Development Student
 
-After having experiences in various sectors, I recently discovered that my place is among computers, which is why I decided to delve into the vast world of programming.
+### 💻 Junior Developer
 
-Since I was very young, I have been interested in technology and tinkering with computers. I still remember how an Amstrad CPC 464 caught my attention at the age of 3.
+After working in several sectors, I discovered that my true passion lies in technology and programming. From the moment I first played with an Amstrad CPC 464 at age 3, I’ve been curious about how things work behind the screen.
 
-Now I want to redirect my path towards this world, because as they say, it's never too late.
+Now I’m fully committed to a career in web development. I bring a user-centered mindset thanks to my background in digital marketing, and I’m always eager to learn and grow in collaborative environments.
 
-I also have knowledge in Digital Marketing and Social Medias, as I completed the first year of Education in Marketing and Advertising professional certificate.
+---
 
-## Technologies:
+### 🌐 About Me
+- 🎓 Web Application Development (DAW)
+- 🔁 Career switcher with a strong motivation to improve
+- 🎯 Passionate about building useful and accessible user experiences
+- 🚀 Continuous learning
+- 🇪🇸 Based in Barcelona, open to remote opportunities
+
+---
+
+### 🛠️ Technologies & Tools
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-</br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-</br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-FF215F?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)]()
-</br>
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 [![React (learning)](https://img.shields.io/badge/React_(learning)-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Angular (learning)](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
@@ -34,7 +38,23 @@ I also have knowledge in Digital Marketing and Social Medias, as I completed the
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 
+---
 
-And some more that I will add as I progress in my studies!
+### 📈 GitHub Stats
+![Estefanía's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstefaniaGM89&show_icons=true&theme=radical)
 
-#### Thanks!
+---
+
+### 🚀 Projects
+- [JustType AI Keyboard]: Intelligent iOS keyboard with real-time translation, auto-correct, and ChatGPT Powered.
+- [MediTrack App]: Web app to manage patients and medications, designed for chronic care tracking.
+
+---
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/estefaniagm89/)
+- 💻 [Portfolio]*(coming soon)*
+
+---
+
+Thanks for visiting my profile! 😊
