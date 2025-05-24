@@ -13,7 +13,7 @@ Now I’m fully committed to a career in web development. I bring a user-centere
 - 🔁 Career switcher with a strong motivation to improve
 - 🎯 Passionate about building useful and accessible user experiences
 - 🚀 Continuous learning
-- 🇪🇸 Based in Barcelona, open to remote opportunities
+- 🌍 Based in Barcelona (Spain), open to remote opportunities
 
 ---
 
