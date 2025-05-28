@@ -14,7 +14,7 @@
 
 After working in several sectors, I discovered that my true passion lies in technology and programming. From the moment I first played with an Amstrad CPC 464 at age 3, I’ve been curious about how things work behind the screen.
 
-Now I’m fully committed to a career in web development. I bring a user-centered mindset thanks to my background in digital marketing, and I’m always eager to learn and grow in collaborative environments.
+Looking forward to growing professionally in the IT sector especially within dynamic, innovation-driven environments.
 
 ---
 
