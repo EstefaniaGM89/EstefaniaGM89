@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello, my name is Estefanía García 👋</h1>
 
-<h3 align="center">💻 Junior Developer</h3>
+<h3 align="center">💻 Full Stack Junior Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/estefaniagm89/" target="_blank">
