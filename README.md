@@ -195,16 +195,6 @@ Developed as a full-stack web application, focusing on structured data managemen
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EstefaniaGM89&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D14&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB" height="165" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstefaniaGM89&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D14&title_color=A855F7&text_color=E5E7EB" height="165" alt="Most used languages" />
-
-</div>
-
 ### 🟣 Contribution Activity
 
 <div align="center">
