@@ -17,7 +17,6 @@ Building digital experiences, learning new technologies and turning ideas into c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefaniagm89/)
 [![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstefaniaGM89)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=astro&logoColor=white)](https://github.com/EstefaniaGM89)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EstefaniaGM89&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
 
@@ -54,11 +53,11 @@ const estefania = {
 };
 ```
 
-I'm a passionate developer with a background in **Web Application Development** and professional experience creating responsive and accessible digital solutions.
+I'm a software developer with a background in **Web Application Development** and professional experience creating responsive and accessible digital solutions.
 
-I have worked on institutional websites, contributed to an AI-powered iOS application and developed full-stack web projects.
+I have contributed to institutional web projects for the **Ajuntament de Mataró**, worked on an AI-powered iOS application and developed full-stack web applications.
 
-Currently pursuing a **Computer Engineering degree at UOC**, while expanding my knowledge of DevOps, cloud infrastructure and automation.
+Currently pursuing a **Computer Engineering degree at Universitat Oberta de Catalunya (UOC)** while expanding my knowledge of DevOps, cloud infrastructure and automation.
 
 My journey into technology started with an **Amstrad CPC 464 at the age of three**. The curiosity never left. 🎮
 
@@ -106,7 +105,7 @@ My journey into technology started with an **Amstrad CPC 464 at the age of three
 
 <br/><br/>
 
-![Learning](https://img.shields.io/badge/FOCUS-DEVOPS%20%26%20CLOUD-7C3AED?style=flat-square&logo=linux&logoColor=white)
+![DevOps](https://img.shields.io/badge/FOCUS-DEVOPS%20%26%20CLOUD-7C3AED?style=flat-square&logo=linux&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/LEARNING-CI%2FCD-A855F7?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
@@ -115,52 +114,79 @@ My journey into technology started with an **Amstrad CPC 464 at the age of three
 
 ## 🚀 Featured Projects
 
+### 🏛️ Institutional Web Development — Ajuntament de Mataró
+
+**Development and maintenance of institutional websites and digital platforms for the City Council of Mataró (Barcelona, Spain).**
+
+Contributed to multiple public-sector web projects, focusing on responsive design, accessibility, usability and content management.
+
+**Key contributions:**
+
+- Developed and customized institutional web pages using HTML5, CSS3 and Bootstrap.
+- Built responsive layouts for desktop, tablet and mobile devices.
+- Worked with Plone CMS to manage and structure digital content.
+- Applied web accessibility and usability best practices.
+- Collaborated with the Communication Department on municipal digital initiatives.
+
+**Selected projects:**
+
+| Project | Description |
+|---------|-------------|
+| 🌱 **Mataró Circular 2030** | Sustainability and circular economy initiatives. |
+| 🎓 **Educació Mataró** | Educational information and municipal services. |
+| 🌿 **Re-Natura Mataró** | Urban sustainability and environmental initiatives. |
+| 🏙️ **Zona de Baixes Emissions (ZBE)** | Information about the city's low-emission zone. |
+| 🤝 **Mataró Cuida** | Municipal care and wellbeing initiatives. |
+
+**Technologies:**
+
+`HTML5` `CSS3` `Bootstrap` `Plone CMS` `Responsive Design` `Web Accessibility`
+
+---
+
 ### ⌨️ JustType AI Keyboard
 
-**AI-powered iOS keyboard with intelligent autocorrection, multilingual translation and ChatGPT integration.**
+**AI-powered iOS keyboard featuring intelligent autocorrection, multilingual translation and ChatGPT integration.**
 
 Contributed to iOS development, Spanish localization and digital marketing activities.
+
+**Technologies:**
 
 `Swift` `Xcode` `iOS` `AI` `Digital Marketing`
 
 [![App Store](https://img.shields.io/badge/View_on_App_Store-7C3AED?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/justtype-ai-keyboard/id6590604907)
 
+---
+
 ### 💊 MediTrack
 
-**Healthcare web application designed to manage patients, medications and treatment tracking.**
+**Healthcare-focused web application designed to manage patients, medications and treatment tracking.**
 
-Built as a full-stack web development project, focusing on structured data management and usability.
+Developed as a full-stack web application, focusing on structured data management, usability and healthcare workflows.
+
+**Technologies:**
 
 `PHP` `Laravel` `MySQL` `Bootstrap`
-
-### 🌐 Developer Social Platform
-
-**Full-stack social networking project for developers.**
-
-Built with a modern TypeScript ecosystem, modular architecture and relational data management.
-
-`React` `TypeScript` `Next.js` `NestJS` `PostgreSQL` `Prisma`
 
 ---
 
 ## 💼 Professional Experience
 
-**Web Development Support Specialist — Ajuntament de Mataró**
-
-*October 2025 – September 2026*
+### Web Development Support Specialist
+**Ajuntament de Mataró | October 2025 – September 2026**
 
 - Developed and maintained responsive institutional web content.
 - Worked with HTML, CSS, Bootstrap and Plone CMS.
 - Applied web accessibility and usability principles.
 - Collaborated with multidisciplinary teams on public-sector digital projects.
+- Contributed to municipal websites and digital communication initiatives.
 
-**iOS Development & Digital Marketing Intern — JustType AI Keyboard**
+### iOS Development & Digital Marketing Intern
+**JustType AI Keyboard | March 2025 – June 2025**
 
-*March 2025 – June 2025*
-
-- Contributed to iOS development using Swift and Xcode.
-- Supported localization and multilingual features.
-- Participated in digital marketing and app promotion.
+- Contributed to iOS application development using Swift and Xcode.
+- Supported Spanish localization and multilingual features.
+- Participated in digital marketing and app promotion activities.
 
 ---
 
