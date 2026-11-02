@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,50:581C87,100:A855F7&text=ESTEFANÍA%20GARCÍA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20EXPLORING%20DEVOPS&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Estefanía García - Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,50:581C87,100:A855F7&text=ESTEFAN%C3%8DA%20GARC%C3%8DA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20EXPLORING%20DEVOPS&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Estefanía García - Full Stack Developer" />
 
 <img src="https://raw.githubusercontent.com/EstefaniaGM89/EstefaniaGM89/main/profile-pic.png" width="150" alt="Estefanía García" />
 
@@ -9,7 +9,7 @@
 
 ### 👋 Hi, I'm Estefanía!
 
-**Full Stack Developer · Computer Engineering Student · DevOps Enthusiast**
+**Full Stack Developer · Computer Engineering Student · Exploring DevOps**
 
 Building digital experiences, learning new technologies and turning ideas into code.
 
@@ -116,27 +116,30 @@ My journey into technology started with an **Amstrad CPC 464 at the age of three
 
 ### 🏛️ Institutional Web Development — Ajuntament de Mataró
 
-**Development and maintenance of institutional websites and digital platforms for the City Council of Mataró (Barcelona, Spain).**
+**Web Development Support Specialist | October 2025 – September 2026**
 
-Contributed to multiple public-sector web projects, focusing on responsive design, accessibility, usability and content management.
+Contributed to the development, maintenance and optimization of institutional websites for the City Council of Mataró (Barcelona, Spain).
+
+Focused on responsive web design, accessibility, usability and content management within a public-sector environment.
 
 **Key contributions:**
 
-- Developed and customized institutional web pages using HTML5, CSS3 and Bootstrap.
-- Built responsive layouts for desktop, tablet and mobile devices.
-- Worked with Plone CMS to manage and structure digital content.
+- Developed and customized web interfaces using HTML5, CSS3 and Bootstrap.
+- Created responsive layouts for desktop, tablet and mobile devices.
+- Worked with Plone CMS to structure and manage institutional web content.
 - Applied web accessibility and usability best practices.
-- Collaborated with the Communication Department on municipal digital initiatives.
+- Collaborated with the Communication Department on municipal digital projects.
 
-**Selected projects:**
+#### 🌐 Selected Live Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌱 **Mataró Circular 2030** | Sustainability and circular economy initiatives. |
-| 🎓 **Educació Mataró** | Educational information and municipal services. |
-| 🌿 **Re-Natura Mataró** | Urban sustainability and environmental initiatives. |
-| 🏙️ **Zona de Baixes Emissions (ZBE)** | Information about the city's low-emission zone. |
-| 🤝 **Mataró Cuida** | Municipal care and wellbeing initiatives. |
+| Project | Description | Website |
+|---------|-------------|---------|
+| 🌱 **Mataró Circular 2030** | Circular economy and sustainability initiatives. | [Visit Website](https://www.mataro.cat/economia-circular) |
+| ⭐ **Mataró 5 Estrelles** | Municipal digital communication project. | [Visit Website](https://www.mataro.cat/5estrelles) |
+| 🤝 **Capital de l'Economia Social** | Social economy and local development initiatives. | [Visit Website](https://capitaleconomiasocial.mataro.cat) |
+| 🐛 **Control de Plagues** | Public information about pest prevention and management. | [Visit Website](https://www.mataro.cat/plagues) |
+| 🌍 **Zona de Baixes Emissions (ZBE)** | Low-emission zone information and regulations. | [Visit Website](https://www.mataro.cat/zbe) |
+| 🎨 **Motor de Creació Urbana** | Urban creativity, culture and artistic initiatives. | [Visit Website](https://www.mataro.cat/sites/motor-creacio-urbana) |
 
 **Technologies:**
 
@@ -173,6 +176,7 @@ Developed as a full-stack web application, focusing on structured data managemen
 ## 💼 Professional Experience
 
 ### Web Development Support Specialist
+
 **Ajuntament de Mataró | October 2025 – September 2026**
 
 - Developed and maintained responsive institutional web content.
@@ -182,6 +186,7 @@ Developed as a full-stack web application, focusing on structured data managemen
 - Contributed to municipal websites and digital communication initiatives.
 
 ### iOS Development & Digital Marketing Intern
+
 **JustType AI Keyboard | March 2025 – June 2025**
 
 - Contributed to iOS application development using Swift and Xcode.
