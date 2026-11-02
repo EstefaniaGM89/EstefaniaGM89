@@ -195,16 +195,6 @@ Developed as a full-stack web application, focusing on structured data managemen
 
 ---
 
-### 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EstefaniaGM89&bg_color=0D0D14&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=581C87&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 - 🚀 Strengthen my Full Stack development skills.
